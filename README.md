@@ -1,2 +1,1 @@
-# Otcsignal
-streamlit pandas plotly talib-binary
+# otc-signal-app
